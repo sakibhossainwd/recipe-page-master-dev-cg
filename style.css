@@ -1,0 +1,30 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+header h1{
+    font-size: 4vh;
+}
+header p{
+    font-size: 2vh;
+}
+img{
+    width: 100%;
+}
+main h2{
+    font-size: 4vh;
+}
+main h5{
+    font-size: 2vh;
+    font-style: italic;
+    font-weight: lighter;
+}
+.checkList{
+    font-size: 2.5vh;
+}
+.checkList label{
+    margin-top: 0;
+}
+samp{
+    font-weight: bolder;
+}
